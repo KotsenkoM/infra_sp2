@@ -1,4 +1,0 @@
-[31;1mSystemCheckError: System check identified some issues:
-[0m
-ERRORS:
-[31;1m?: (staticfiles.E002) The STATICFILES_DIRS setting should not contain the STATIC_ROOT setting.[0m
